@@ -3,8 +3,8 @@ HTML Resume Project
 A semantic, pure HTML5 resume built as part of the ChaiCode assignment. This project demonstrates the proper use of HTML tags for structure, accessibility, and content organization.
 
 Live Demo
-[Click here to view the live resume](https://github.com/Tozz-7/Assignments/blob/main/index.html)
-
+[Click here to view the live resume
+](https://tozz-7.github.io/Assignments/)
  Screenshots:
 <img width="1679" height="735" alt="Screenshot resume 1" src="https://github.com/user-attachments/assets/e418b6ab-f510-48cf-b10a-e5c5d48df96e" />
 <img width="1678" height="709" alt="Screenshot resume 2" src="https://github.com/user-attachments/assets/40bca230-647a-4b91-8b21-22152448b6a2" />
