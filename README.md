@@ -17,8 +17,9 @@ Live Demo
 * **Forms & Tables:** Demonstrates usage of `<thead>`, `<tbody>`, and table structures.
 
 How to Run Locally
-1. Clone the repository or download the ZIP file.
-2. Open the folder.
-3. Double-click `index.html` to open it in any web browser.
+1. Directly click on Live link above, if it doesn't work,
+2. Clone the repository or download the ZIP file.
+3. Open the folder.
+4. Double-click `index.html` to open it in any web browser.
 
 Mohammed Tousif
